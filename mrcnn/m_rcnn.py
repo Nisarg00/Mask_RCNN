@@ -14,7 +14,7 @@ import shutil
 import zipfile
 
 # Root directory of the project
-ROOT_DIR = os.path.abspath("/content/Hack_master/mrcnn")
+ROOT_DIR = os.path.abspath("/content/Hack-master")
 print("VERS 0.2")
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
